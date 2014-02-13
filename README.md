@@ -1,6 +1,6 @@
 # BitcoinTxExporter
 
-Quickly hacked up Ruby script for donwloading transaction data from Blockchain.info for specified addresses and to CSV export
+Quickly hacked up Ruby script for downloading transaction data from Blockchain.info for specified addresses and to CSV export
 
 ## Unlicense
 
